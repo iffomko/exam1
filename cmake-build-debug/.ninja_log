@@ -1,0 +1,6 @@
+# ninja log v5
+0	522	6781317478946035	CMakeFiles/project12.dir/main.cpp.obj	d303b10564e705a3
+31	526	6781317478966050	CMakeFiles/project12.dir/Matrix.cpp.obj	7cfa42f0b00f24a8
+527	822	6781317481896693	project12.exe	ac92427f888ae9c8
+3	516	6781318624498802	CMakeFiles/project12.dir/Matrix.cpp.obj	7cfa42f0b00f24a8
+517	878	6781318628029581	project12.exe	ac92427f888ae9c8
